@@ -1,7 +1,7 @@
 SMODS.Joker {
     key = "wee",
     unlocked = true,
-    blueprint_compat = true,
+    blueprint_compat = false,
     perishable_compat = false,
     rarity = 3,
     cost = 8,
